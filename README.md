@@ -8,4 +8,5 @@ This is a basic twitter clone.
 
 ## Project Setup
 
-TBD
+1. Create the database:
+    `rake db:create:all`
