@@ -21,3 +21,7 @@
 
 en:
   hello: "Hello world"
+  active_record:
+    attributes:
+      squeek:
+        body: "Your squeek"
